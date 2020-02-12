@@ -1,0 +1,8 @@
+.venv
+.vscode
+workspace.code-workspace
+__pycache__/
+
+# Ignore all configs except example.json
+/*.json
+!example.json

@@ -1,0 +1,9 @@
+{
+    "targets": [
+        { "name": "TEST_MAP_1", "host": "192.168.0.2", "login": "username", "password": "password" },
+        { "name": "TEST_MAP_2", "host": "192.168.0.3", "login": "username", "password": "password", "timeout": 5 },
+        { "name": "TEST_MAP_3", "host": "192.168.0.4" }
+    ],
+    "timeout" : 1,
+    "port": 26001
+}
